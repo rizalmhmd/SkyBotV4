@@ -38,59 +38,59 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['62895347198105', 'Arifzyn', true],
-['62877688861483', 'Arifzyn', true],
-['62895347198105', 'Arifzyn', true] // Jangan Du Hapus Nanti eror 
+['6281333154367', '𝚉𝚊𝚕𝚕', true],
+['62877688861483', 'Arifzyn', false],
+['62895347198105', 'Arifzyn', false] // Jangan Du Hapus Nanti eror 
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6289636219593'
-global.nomorown = '62895347198105'
-global.nomorown1 = '62895347198105'
-global.nomorown2 = '62895347198105'
+global.nomorbot = '6281327238906'
+global.nomorown = '6281333154367'
+global.nomorown1 = '6281333154367'
+global.nomorown2 = '6281327238906'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝙰𝚛𝚒𝚏𝚣𝚢𝚗 X 𝚂𝚔𝚢𝙱𝚘𝚝'
-global.namebot = '​𝚂𝚔𝚢𝙱𝚘𝚝 𝙼𝚍'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐒𝐤𝐲𝐁𝗼𝐭 𝐌𝐝'
+global.author = '𝚉𝚊𝚕𝚕'
+global.namebot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝐒𝐤𝐲𝐁𝗼𝐭 𝑴𝒅 '
+global.wm = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 '
 global.watermark = wm
-global.wm2 = '𝐒𝐤𝐲𝐁𝗼𝐭 𝑴𝒅 '
+global.wm2 = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝐀𝐫𝐢𝐟𝐳𝐲𝐧 𝐗 𝐒𝐤𝐲𝐁𝗼𝐭`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© 𝐒𝐤𝐲𝐁𝗼𝐭 MD`
+global.titlebot = `𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕`
+global.stickpack = '𝚉𝚊𝚕𝚕'
+global.stickauth = `© 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝐀𝐫𝐢𝐟𝐳𝐲𝐧'
-global.nameown2 = '𝐒𝐤𝐲𝐁𝗼𝐭'
+global.nameown1= '𝚉𝚊𝚕𝚕'
+global.nameown2 = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = '𝐆𝐝𝐚 𝐖𝐤𝐰𝐤'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/Arifzyn19_'
-global.sgh = 'https://github.com/RifXz19' //github
-global.sgc = 'https://chat.whatsapp.com/KS51Xw91eju8HTv5owtV1z' //group whatsapp
+global.sig = 'https://instagram.com/zallzall02'
+global.sgh = 'https://github.com/rizalmhmd' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/--'
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0895347198105'
-global.povo = '-'
-global.pgopay = '089636219593'
+global.pdana = '081333154367'
+global.povo = '081333154367'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '082112309234'
-global.ppulsa2 = '0895347198105'
-global.psaweria = 'https://saweria.co/Arifzyn'
+global.ppulsa = '081333154367'
+global.ppulsa2 = '082322133457'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -250,13 +250,13 @@ global.APIs = { // API Prefix
 
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'ebb6251cc00f9c63',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',// 8e66d0934cf741bfd2182c16
+  'https://api.lolhuman.xyz': 'ee99d6df5f8c5eaf7667a90d',// 8e66d0934cf741bfd2182c16
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://melcanz.com': 'melcantik',
+  'https://melcanz.com': 'manHkmst',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://botstyle-api.herokuapp.com': 'Apikeymu',
@@ -275,7 +275,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = true // Nsfw Mode Premium?
+global.premnsfw = false // Nsfw Mode Premium?
 global.thumb = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
@@ -517,9 +517,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/Arifzyn19_"
+global.urlnya = "https://www.instagram.com/zallzall02"
 global.dtc = '???? ?????'
-global.phn = '0895-3471-98105'
+global.phn = '0813-3315-4367'
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
